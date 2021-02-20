@@ -1,19 +1,4 @@
 body {
-  background-color: antiquewhite;
-  color: brown;
-  text-align: center;
-  margin-top: 100px;
-}
-
-div.business h1 {
-  margin: 20px 0;
-}
-
-div.business-listing {
-  margin: 5px 30%;
-}
-
-.business-listing p {
-  text-align: left;
-  margin-bottom: .1rem;
+  margin: 0;
+  background: almond;
 }
