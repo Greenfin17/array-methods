@@ -1,5 +1,3 @@
-// USE WITH FIREBASE AUTH
-// import checkLoginStatus from './helpers/auth';
 console.log("connected");
 
 const businesses = [
